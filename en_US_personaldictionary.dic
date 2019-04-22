@@ -3,5 +3,7 @@ addr
 dll
 enum
 longjmp
+molebase
+mutex
 ptr
 setjmp
