@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_layout_file>
 	<FileVersion major="1" minor="0" />
-	<EditorTabsLayout layout="@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=821;besth=297;minw=821;minh=297;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|" />
+	<ActiveProject path="D:/checkout/le010app/le010vm.cbp" />
+	<PreferredTarget name="Debug" />
+	<EditorTabsLayout layout="09955c085ce20cef0000174100000002=0;le010vm:src\device\dataswap.c,1;le010vm:src\device\verify.c,2;le010vm:src\device\datamap.c,*3;le010vm:src\device\map_file.c@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=821;besth=477;minw=821;minh=477;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=09955c085ce20cef0000174100000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
 </CodeBlocks_workspace_layout_file>
