@@ -490,4 +490,4 @@ bind938-type4660=File\\Close file|Close the active file|Ctrl-W|
 bind939-type4660=File\\Close all files|Close all open files|Ctrl-Shift-W|
 bind3112-type4660=Build\\Select target\\Debug|Build target 'Debug' in current project|
 bind3113-type4660=Build\\Select target\\Release|Build target 'Release' in current project|
-bind3452-type4660=Debug\\Information\\Print Elements|Set limit on string chars or array elements to print|
+bind3349-type4660=Debug\\Information\\Print Elements|Set limit on string chars or array elements to print|
